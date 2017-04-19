@@ -1,4 +1,7 @@
-# test coverage for  shelljs-nodecli (v0.1.1)  [![npm package](https://img.shields.io/npm/v/npmtest-shelljs-nodecli.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-shelljs-nodecli) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-shelljs-nodecli.svg)](https://travis-ci.org/npmtest/node-npmtest-shelljs-nodecli)
+# npmtest-shelljs-nodecli
+
+#### basic test coverage for  shelljs-nodecli (v0.1.1)  [![npm package](https://img.shields.io/npm/v/npmtest-shelljs-nodecli.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-shelljs-nodecli) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-shelljs-nodecli.svg)](https://travis-ci.org/npmtest/node-npmtest-shelljs-nodecli)
+
 #### ShellJS Node CLI Extension
 
 [![NPM](https://nodei.co/npm/shelljs-nodecli.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/shelljs-nodecli)
